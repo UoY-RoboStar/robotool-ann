@@ -39,7 +39,7 @@ repositories/file\:_home_za628_ROBOTOOL_robotool-ann_robotool-feature_target/isS
 repositories/file\:_home_za628_ROBOTOOL_robotool-ann_robotool-feature_target/provider=
 repositories/file\:_home_za628_ROBOTOOL_robotool-ann_robotool-feature_target/suffix=p2artifacts.xml
 repositories/file\:_home_za628_ROBOTOOL_robotool-ann_robotool-feature_target/uri=file\:/home/za628/ROBOTOOL/robotool-ann/robotool-feature/target/
-repositories/file\:_resolution-context-artifacts@%252Fhome%252Fza628%252FROBOTOOL%252Frobotool-ann%252Frobotool-customization-repository/description=Read-only repository adapter for org.eclipse.tycho.repository.p2base.artifact.provider.CompositeArtifactProvider@25bf6efd
+repositories/file\:_resolution-context-artifacts@%252Fhome%252Fza628%252FROBOTOOL%252Frobotool-ann%252Frobotool-customization-repository/description=Read-only repository adapter for org.eclipse.tycho.repository.p2base.artifact.provider.CompositeArtifactProvider@1c42884b
 repositories/file\:_resolution-context-artifacts@%252Fhome%252Fza628%252FROBOTOOL%252Frobotool-ann%252Frobotool-customization-repository/enabled=true
 repositories/file\:_resolution-context-artifacts@%252Fhome%252Fza628%252FROBOTOOL%252Frobotool-ann%252Frobotool-customization-repository/isSystem=false
 repositories/file\:_resolution-context-artifacts@%252Fhome%252Fza628%252FROBOTOOL%252Frobotool-ann%252Frobotool-customization-repository/provider=
